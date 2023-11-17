@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420940663444",
+    "project_id": "hamechis",
+    "storage_bucket": "hamechis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420940663444:android:138cff408c2321457b4281",
+        "android_client_info": {
+          "package_name": "com.example.hamechis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrjFEC6fCm0fQqz7euLaEEVKx5STOCnZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
